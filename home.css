@@ -1,0 +1,120 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+
+li  {
+display: inline-block;
+margin: 10px;
+padding: 10px;	
+}
+a {
+	text-decoration: none;
+		color: #000000;
+}
+
+.menu-home {
+	text-align: center;
+		border-bottom: 1px solid black;
+
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	
+}
+.sobre-mim {
+	display: inline-block;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	margin-right: 90px;
+	text-align: center;
+    width: 250px;
+    box-sizing: border-box;
+    float: right;
+
+}
+img {
+width: 100%; 
+height: auto
+}
+
+.descricao-foto {
+	font-size: 15px;
+
+}
+
+h3 {
+	text-transform: capitalize;
+	margin: 0;
+    margin-bottom: 30px;	
+}
+
+.nome {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.rodape {
+	background-color: #000;
+	color: #FFF;
+	clear: both;
+	padding: 5px;
+}
+
+.sobre-mim h2 {
+	text-align: center;
+}
+
+.videos {
+	margin-left: 90px;
+	float: left;
+	width: 60%;
+}
+
+aside {
+	float: right;
+	width: 30%;
+}
+
+.top {
+	margin-top: 60px;
+}
+
+.videos iframe {
+	margin-bottom: 20px;
+}
+.descricao-video {
+	float: left;
+	width: 30%;
+	margin-left: 20px;
+    padding: 10px;
+    text-align: justify;	
+
+}
+.iframe-video {
+	float: left;
+
+}
+
+.posts {
+	clear: both;
+	text-align: center;
+	background: #B0E0E6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
